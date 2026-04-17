@@ -3,7 +3,7 @@ import json
 import os
 
 # 文件路径
-DATA_FILE = "demo/students.json"
+DATA_FILE = "phase1-day01/students.json"
 
 student = {}  # 全局字典: {学号:{"name":姓名,"score":[语文,数学,英语]}}
 
