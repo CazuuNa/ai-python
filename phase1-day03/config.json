@@ -1,0 +1,7 @@
+{
+  "experiment_name": "exp_2026_04",
+  "dataset": "alpaca-zh-clean.jsonl",
+  "model_path": "/models/Qwen2-7B",
+  "output_dir": "./checkpoints",
+  "wandb": true
+}
