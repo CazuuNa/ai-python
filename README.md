@@ -110,3 +110,18 @@
 - **Day 90**：总复盘 + 未来学习路径（MCP 生态、AI IDE、垂直领域深耕） + 分享到 GitHub / 掘金
 
 **结语**：90 天后，你已具备前端 + AI 应用开发完整能力。持续迭代项目，关注 Dify/Coze/Cursor 等产品动态。保持好奇心，深耕 1-2 个垂直领域（如 AIGC 工具、智能客服）。
+
+
+进入python虚拟环境
+```bash
+source venv/bin/activate
+```
+在windows下，需要使用activate脚本激活虚拟环境
+```bash
+venv\Scripts\activate
+```
+
+退出虚拟环境
+```bash
+deactivate
+```
